@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1473391275 source:c:\users\mgnk\documents\programacion i\prueba1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473389065 source:c:\users\mgnk\documents\programacion i\prueba1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473388964 c:\users\mgnk\documents\programacion i\prueba1\funciones.h
+
+1473391276 source:e:\prueba1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473388966 e:\prueba1\funciones.h
+
